@@ -37,6 +37,8 @@ The analysis is based on a relational database structure consisting of four tabl
 
 ![Monthly Sales Chart](images/monthly_sales.png)
 
+![Daily Sales Chart](images/daily_sales.png)
+
 **Recommendation:** Concentrate marketing spend during peak months and hours to maximize ROI. Launch holiday campaigns starting in late October and run targeted digital ads during the 11 AM-1 PM and 6 PM-8 PM time slots.
 
 ### ❓ Business Question 2: Which geographic locations are our top markets?
