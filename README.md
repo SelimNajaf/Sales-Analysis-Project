@@ -25,7 +25,7 @@ This analysis of 12 months of sales data provides actionable insights into custo
 The analysis is based on a relational database structure consisting of four tables: `orders`, `customers`, `geo_lookup`, and `order_status`. The dataset contains a total row count of **185,950 records**.
 
 #### Entity Relationship Diagram (ERD)
-![ERD](https://imgur.com/parh5nW)
+![ERD](https://imgur.com/a/OAkxpM8)
 
 ---
 
