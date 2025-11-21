@@ -76,8 +76,8 @@ This section contains the technical details of the project.
 -   `requirements.txt`: List of Python dependencies.
 
 #### 🔗 Code Links
--   **Data Cleaning & Merging:** [View the Python script here](./notebooks/Sales_Analysis.ipynb#data-cleaning)
--   **Product Bundle Analysis:** [View the Python script here](./notebooks/Sales_Analysis.ipynb#bundle-analysis)
+-   **Data Cleaning & Merging:** [View the Python script here](./notebook/Sales_Analysis.ipynb#data-cleaning)
+-   **Product Bundle Analysis:** [View the Python script here](./notebook/Sales_Analysis.ipynb#bundle-analysis)
 
 #### ⚙️ Installation & Setup
 1.  Clone the repository: `git clone https://github.com/SelimNajaf/Sales-Analysis-Project.git`
